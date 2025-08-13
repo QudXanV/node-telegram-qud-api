@@ -1,6 +1,6 @@
 {
-  "name": "node-telegram-bot-api",
-  "version": "0.68.0",
+  "name": "node-telegram-qud-api",
+  "version": "0.5.0",
   "description": "Telegram Bot API",
   "main": "./index.js",
   "directories": {
@@ -65,10 +65,10 @@
   },
   "repository": {
     "type": "git",
-    "url": "https://github.com/yagop/node-telegram-bot-api.git"
+    "url": "https://github.com/QudXanV/node-telegram-qud-api.git"
   },
   "bugs": {
-    "url": "https://github.com/yagop/node-telegram-bot-api/issues"
+    "url": "https://github.com/QudXanV/node-telegram-qud-api/issues"
   },
-  "homepage": "https://github.com/yagop/node-telegram-bot-api"
+  "homepage": "https://github.com/QudXanV/node-telegram-qud-api"
 }
