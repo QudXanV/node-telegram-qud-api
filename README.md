@@ -6,8 +6,8 @@ Node.js module to interact with the official [Telegram Bot API](https://core.tel
 
 
 [![Bot API](https://img.shields.io/badge/Bot%20API-v.9.0-00aced.svg?style=flat-square&logo=telegram)](https://core.telegram.org/bots/api)
-[![npm package](https://img.shields.io/npm/v/node-telegram-bot-api?logo=npm&style=flat-square)](https://www.npmjs.org/package/node-telegram-bot-api)
-[![Coverage Status](https://img.shields.io/codecov/c/github/yagop/node-telegram-bot-api?style=flat-square&logo=codecov)](https://codecov.io/gh/yagop/node-telegram-bot-api)
+[![npm package](https://img.shields.io/npm/v/node-telegram-bot-api?logo=npm&style=flat-square)](https://www.npmjs.org/package/node-telegram-qud-api)
+[![Coverage Status](https://img.shields.io/codecov/c/github/QudXanV/node-telegram-qud-api?style=flat-square&logo=codecov)](https://codecov.io/gh/QudXanV/node-telegram-qud-api)
 
 [![https://telegram.me/node_telegram_bot_api](https://img.shields.io/badge/💬%20Telegram-Channel-blue.svg?style=flat-square)](https://telegram.me/node_telegram_bot_api)
 [![https://t.me/+_IC8j_b1wSFlZTVk](https://img.shields.io/badge/💬%20Telegram-Group-blue.svg?style=flat-square)](https://t.me/+_IC8j_b1wSFlZTVk)
@@ -18,7 +18,7 @@ Node.js module to interact with the official [Telegram Bot API](https://core.tel
 ## 📦 Install
 
 ```sh
-npm i node-telegram-bot-api
+npm i node-telegram-qud-api
 ```
 
 <br/>
